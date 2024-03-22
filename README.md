@@ -3,7 +3,6 @@
 
 Welcome to my Sentiment Analysis project repository! 🚀
 
-![Sentiment Analysis](sentiment_analysis.png)
 
 ## Overview
 
@@ -24,5 +23,6 @@ This project is a sentiment analysis application developed as part of my interns
 
 ## Usage
 
-To access the sentiment predictor app ,click on this link:http://13.239.56.113:5000/
+To access the sentiment predictor app ,click on this link : http://13.239.56.113:5000/
+
 Thank you for visiting! 🙏 Let's continue exploring the exciting world of data science and machine learning together! 🌟
